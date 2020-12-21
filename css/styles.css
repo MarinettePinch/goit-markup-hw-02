@@ -42,7 +42,8 @@ li {
 }
 
 .header .site-nav a {
-  color: var(--primary-text-color) hover;
+  color: var(--primary-text-color);
+  hover;
 }
 
 .header .address a {
