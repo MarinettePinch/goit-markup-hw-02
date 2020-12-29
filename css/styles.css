@@ -48,6 +48,7 @@ body {
 
 .header .address a {
   color: var(--grey-text-color);
+  font-style: normal;
 }
 
 .header .link:hover,
@@ -148,6 +149,7 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--light-text-color);
+  font-style: normal;
 }
 
 .footer .address a {
